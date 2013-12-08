@@ -14,5 +14,5 @@ The FreeImage Library for C# - http://freeimage.sourceforge.net/download.html <b
 
 <h3>Licensing and Permissions</h3>
 This software is not meant to be used for commercial purposes. Users are allowed to modify and distribute this software under the following conditions:<br />
-If it's a binary distribution, a mention of the original author must be made in the Readme if it exists, or within the software itself, in the 'About' (or equivalent) section.<br />
-If it's a source code distribution, a mention of the original author must be made in the Readme if it exists, or in the source code itself.
+If it's a binary distribution, a mention of the original author or this repository must be made in the Readme if it exists, or within the software itself, in the 'About' (or equivalent) section.<br />
+If it's a source code distribution, a mention of the original author or this repository must be made in the Readme if it exists, or in the source code itself.
