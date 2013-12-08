@@ -10,7 +10,7 @@ FreeImage is used under the GNU GPL, version 3.</sub></i>
 
 <h3>Requirements</h3>
 Microsoft .NET Frameworks 4.0 - http://www.microsoft.com/en-us/download/details.aspx?id=17851" <br />
-The FreeImage Library for C# - http://freeimage.sourceforge.net/download.html <br /> The wrapper is included within this project, so you'll only have to get the ./FreeImage/Dist/FreeImage.dll from the downloaded archive, and place it in the same folder as the executable.
+The FreeImage Library for C# - http://freeimage.sourceforge.net/download.html <br /> The FreeImage wrapper is included within this project, so you'll only have to get the ./FreeImage/Dist/FreeImage.dll from the downloaded archive, and place it in the same folder as the executable.
 
 <h3>Licensing and Permissions</h3>
 This software is not meant to be used for commercial purposes. Users are allowed to modify and distribute this software under the following conditions:<br />
