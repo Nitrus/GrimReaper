@@ -19,7 +19,7 @@ The FreeImage Library for C# - http://freeimage.sourceforge.net/download.html <b
 <h3>TODO</h3>
 <ul>
 <li>Make all of <i>this</i> a decent project, properly classed and formatted, with descriptive variable names.</li>
-<li>Get rid of non-generic, not reusable code. (which the bigger part of this software currently is) </li>
+<li>Get rid of non-generic, non-reusable code. (which the bigger part of this software currently is) </li>
 <li>Add ability of reading .COS files, allowing for .MAT files to be automatically linked with their corresponding .CMP files. </li>
 <li>Make a better icon.</li>
 </ul>
