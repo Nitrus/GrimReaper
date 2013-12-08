@@ -1,0 +1,29 @@
+﻿<Window x:Class="GrimReaper.Credits"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="422" Width="351" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" Icon="/GrimReaper;component/GrimIcon.ico">
+    <Grid>
+        <TextBlock Height="22" HorizontalAlignment="Center" Margin="131,28,117,333" Name="textBlock1" Text="Author: Nitrus" VerticalAlignment="Center" Width="81" />
+        <Image Height="90" HorizontalAlignment="Center" Margin="126,48,113,245" Name="image1" Stretch="None" VerticalAlignment="Center" Width="90" Source="/GrimReaper;component/NitAv.jpg" />
+        <TextBlock Height="37" HorizontalAlignment="Center" Margin="29,147,12,199" Name="textBlock2" Text="Specifically designed for the Modding Community of Grim Fandango: Deluxe." VerticalAlignment="Center" TextWrapping="Wrap" Width="211" TextAlignment="Center" />
+        <TextBlock Height="36" HorizontalAlignment="Center" Margin="25,183,12,164" Name="textBlock3" Text="Special thanks to: JohnnyWalker2001 a.k.a ThunderPeel2001" VerticalAlignment="Center" TextWrapping="Wrap" TextAlignment="Center" FontWeight="Bold" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="77,250,0,0" Name="textBlock4" Text="Check these websites for more info:" VerticalAlignment="Top" />
+        <Button Content="Close" Height="38" HorizontalAlignment="Left" Margin="111,329,0,0" Name="button1" VerticalAlignment="Top" Width="122" Click="button1_Click" />
+        <Button Content="JohnnyWalker2001' Grim Fandango Deluxe Blogspot" Height="23" HorizontalAlignment="Left" Name="button2" VerticalAlignment="Top" Width="317" Foreground="#FF1DCE00" FontWeight="Bold" FontStyle="Italic" Click="button2_Click" Margin="11,267,0,0">
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+            <Button.BorderBrush>
+                <SolidColorBrush />
+            </Button.BorderBrush>
+        </Button>
+        <Button Content="ResidualVM's Grim Fandango Deluxe Forum Thread" Height="23" HorizontalAlignment="Left" Margin="18,290,0,0" Name="button3" VerticalAlignment="Top" Width="303" Foreground="#FF1DCE00" FontWeight="Bold" FontStyle="Italic" Click="button3_Click">
+            <Button.BorderBrush>
+                <SolidColorBrush />
+            </Button.BorderBrush>
+            <Button.Background>
+                <SolidColorBrush />
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
